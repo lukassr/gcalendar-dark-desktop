@@ -38,3 +38,4 @@ Where `<OS>` can be `mac`, `win` or `linux`.
 
 ### 15/04
 - Remove bold style in month view
+- Change min width window for better performance in shared fullscreen mode
