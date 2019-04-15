@@ -270,7 +270,7 @@
 .lcPUt
   {
     filter: invert(100%) hue-rotate(180deg) brightness(1.1) saturate(140%) contrast(105%)!important;
-    font-weight: bold!important;
+    /* font-weight: bold!important; */
     mix-blend-mode: darken;
   }
 
@@ -360,7 +360,7 @@
 
 /* Font weight increase of the event titles (month view) */
 .g3dbUc {
-    font-weight: 900!important;
+    font-weight: 500!important;
     color: #fff!important;
 }
 
@@ -376,7 +376,7 @@
 
 /* Font color of past events (week view) */
 .FAxxKc {
-    font-weight: 600!important;
+    font-weight: 500!important;
     color: /*[[color4]]*/
     !important;
 }
@@ -409,7 +409,7 @@
 /* Font color in the pop up view coming after left clicking the event in the month view */
 #rAECCd,
 .jPtXgd {
-    font-weight: 600!important;
+    font-weight: 500!important;
 }
 .WpDZC,
 .zHQkBf {
